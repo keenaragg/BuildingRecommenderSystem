@@ -22,9 +22,12 @@ Formula dari IMDB dengan Weighted Rating
 Weighted Rating (WR) = (v/v+m).R + (m?v+m).C
 
 dimana,
-v: jumlah votes untuk film tersebut
+v: jumlah votes untuk film tersebut 
+
 m: jumlah minimum votes yang dibutuhkan supaya dapat masuk dalam chart
+
 R: rata-rata rating dari film tersebut
+
 C: rata-rata jumlah votes dari seluruh semesta film
 
 # Building Recommender System with Similarity Function
